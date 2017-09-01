@@ -17,7 +17,7 @@ import dataaccess.TasksRepository;
 import dataaccess.local.TasksLocalDataSource;
 import dataaccess.remote.TasksRemoteDataSource;
 import mvp.tuts.todo_app.R;
-import mvp.tuts.todo_app.Tasks.TasksActivity;
+import mvp.tuts.todo_app.tasks.TasksActivity;
 
 public class StatisticsActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, StatisticsFragment.OnFragmentInteractionListener{

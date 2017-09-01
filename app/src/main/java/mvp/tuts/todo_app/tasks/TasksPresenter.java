@@ -1,4 +1,4 @@
-package mvp.tuts.todo_app.Tasks;
+package mvp.tuts.todo_app.tasks;
 
 import android.app.Activity;
 import android.support.annotation.NonNull;

@@ -1,4 +1,4 @@
-package mvp.tuts.todo_app.Tasks;
+package mvp.tuts.todo_app.tasks;
 
 import android.content.Intent;
 import android.os.Bundle;

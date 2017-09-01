@@ -1,4 +1,4 @@
-package mvp.tuts.todo_app.Tasks;
+package mvp.tuts.todo_app.tasks;
 
 /**
  * Created by benny on 8/27/17.
