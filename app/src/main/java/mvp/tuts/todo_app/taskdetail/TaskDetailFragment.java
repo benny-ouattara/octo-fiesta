@@ -21,8 +21,8 @@ import android.widget.TextView;
 
 import com.google.common.base.Preconditions;
 
-import mvp.tuts.todo_app.AddEditTask.AddEditTaskActivity;
-import mvp.tuts.todo_app.AddEditTask.AddEditTaskFragment;
+import mvp.tuts.todo_app.addedittask.AddEditTaskActivity;
+import mvp.tuts.todo_app.addedittask.AddEditTaskFragment;
 import mvp.tuts.todo_app.R;
 
 /**

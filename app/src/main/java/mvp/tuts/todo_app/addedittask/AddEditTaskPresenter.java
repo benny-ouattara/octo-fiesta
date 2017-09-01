@@ -1,4 +1,4 @@
-package mvp.tuts.todo_app.AddEditTask;
+package mvp.tuts.todo_app.addedittask;
 
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;

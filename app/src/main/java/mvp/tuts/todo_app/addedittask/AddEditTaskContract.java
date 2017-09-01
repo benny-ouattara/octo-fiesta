@@ -1,4 +1,4 @@
-package mvp.tuts.todo_app.AddEditTask;
+package mvp.tuts.todo_app.addedittask;
 
 import mvp.tuts.todo_app.BasePresenter;
 import mvp.tuts.todo_app.BaseView;

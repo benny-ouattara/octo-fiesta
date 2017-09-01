@@ -9,7 +9,7 @@ import java.util.List;
 import dataaccess.TasksDataSource;
 import dataaccess.TasksRepository;
 import dataaccess.models.Task;
-import mvp.tuts.todo_app.AddEditTask.AddEditTaskActivity;
+import mvp.tuts.todo_app.addedittask.AddEditTaskActivity;
 
 import static com.google.common.base.Preconditions.checkNotNull;
 

@@ -26,7 +26,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import dataaccess.models.Task;
-import mvp.tuts.todo_app.AddEditTask.AddEditTaskActivity;
+import mvp.tuts.todo_app.addedittask.AddEditTaskActivity;
 import mvp.tuts.todo_app.R;
 import mvp.tuts.todo_app.taskdetail.TaskDetailActivity;
 

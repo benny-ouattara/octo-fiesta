@@ -1,4 +1,4 @@
-package mvp.tuts.todo_app.AddEditTask;
+package mvp.tuts.todo_app.addedittask;
 
 import android.net.Uri;
 import android.os.Bundle;
